@@ -1,0 +1,14 @@
+.react-autosuggest__container {
+  width: 100%;
+}
+
+.react-autosuggest__input {
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  margin:0 20px;
+  margin-top: 20px;
+  padding: 10px;
+  width: -moz-available;          
+  width: -webkit-fill-available;  
+  width: fill-available;
+}
